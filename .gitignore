@@ -1,0 +1,33 @@
+# Build folders
+build/
+dist/
+
+# Training outputs
+runs/
+
+# Dataset
+dataset/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Models
+*.pt
+
+# Logs
+*.log
+
+# Data files
+*.csv
+
+# Images
+*.jpg
+*.png
+
+# Virtual env
+venv/
+
+# IDE
+.vscode/
+
