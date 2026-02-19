@@ -105,8 +105,4 @@ Email alerts for high severity potholes
 - Reliable severity classification
 
 ---
-
-## 🖥️ Installation
-
-### 1️⃣ Clone Repository
-```bash
+
